@@ -5,6 +5,6 @@ permalink: /bonus/
 ---
 
 
-<video src="https://i.imgur.com/gcvC0oR.mp4"/>
+<img src="https://i.imgur.com/gcvC0oR.gifv"/>
 
-<img src="https://i.imgur.com/35y3L5U.jpg"/>
+<p><img src="https://i.imgur.com/35y3L5U.jpg"/></p>
